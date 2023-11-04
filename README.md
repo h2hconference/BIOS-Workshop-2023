@@ -171,7 +171,7 @@ entrar em contato diretamente com os organizadores, a seguir.
 [header]: assets/header.webp
 
 <!-- Downloads -->
-[H2HC2023_BIOS_Hacking_Pack.zip]: assets/H2HC2023_BIOS_Hacking_Pack.zip
+[H2HC2023_BIOS_Hacking_Pack.zip]: https://github.com/h2hconference/BIOS-Workshop-2023/raw/main/assets/H2HC2023_BIOS_Hacking_Pack.zip
 [H2HC2023_BIOS_Hacking_VM.ova]: https://archive.org/download/h-2-hc-2023-bios-hacking-vm/H2HC2023_BIOS_Hacking_VM.ova
 
 <!-- External links -->
