@@ -106,7 +106,9 @@ adicional de segurança contra a possibilidade de malware.
 
 - **H2HC2023_BIOS_Hacking_VM_v2.ova (6,2 GB)**  
   SHA-256 `f04b9fd10b636f443ffa59e6e039b6e71c378476dd53a8ce5d1acc5a46bfb455`  
-  [Download via archive.org][H2HC2023_BIOS_Hacking_VM_v2.ova@archive.org]
+  [Download via teske.net.br][H2HC2023_BIOS_Hacking_VM_v2.ova@teske.net.br] (recomendado)  
+  [Download via drive.google.com][H2HC2023_BIOS_Hacking_VM_v2.ova@drive.google.com]  
+  [Download via archive.org][H2HC2023_BIOS_Hacking_VM_v2.ova@archive.org] (lento)
 
 ### Instalação manual
 
@@ -173,6 +175,8 @@ entrar em contato diretamente com os organizadores, a seguir.
 <!-- Downloads -->
 [H2HC2023_BIOS_Hacking_Pack_v2.zip]: https://github.com/h2hconference/BIOS-Workshop-2023/raw/main/assets/H2HC2023_BIOS_Hacking_Pack_v2.zip
 [H2HC2023_BIOS_Hacking_VM_v2.ova@archive.org]: https://archive.org/download/h-2-hc-2023-bios-hacking-vm/H2HC2023_BIOS_Hacking_VM_v2.ova
+[H2HC2023_BIOS_Hacking_VM_v2.ova@drive.google.com]: https://drive.google.com/file/d/1E4CaHPpMazDdXiYJnpeAbwKHnhVsd1I2/view
+[H2HC2023_BIOS_Hacking_VM_v2.ova@teske.net.br]: https://www.teske.net.br/h2hc2023/H2HC2023_BIOS_Hacking_VM_v2.ova
 
 <!-- External links -->
 [7-Zip]: https://7-zip.org
