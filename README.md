@@ -104,9 +104,9 @@ adicional de segurança contra a possibilidade de malware.
 >
 > A senha para o usuário `bios` da máquina virtual é `life`.
 
-- **H2HC2023_BIOS_Hacking_VM.ova (5,14 GB)**  
-  SHA-256 `093b5b4729b63489ffd41ce6a684f0b33371d445348f93da03e0bd949594a8fc`  
-  [Download][H2HC2023_BIOS_Hacking_VM.ova]
+- **H2HC2023_BIOS_Hacking_VM_v2.ova (5,14 GB)**  
+  SHA-256 `f04b9fd10b636f443ffa59e6e039b6e71c378476dd53a8ce5d1acc5a46bfb455`  
+  [Download via archive.org][H2HC2023_BIOS_Hacking_VM_v2.ova@archive.org]
 
 ### Instalação manual
 
@@ -122,9 +122,9 @@ download do pacote abaixo e instalar as ferramentas listadas.
 > programas e recomendam que eles sejam usados apenas em ambientes isolados. A
 > senha para o arquivo .zip é `biosislife`.
 
-- **H2HC2023_BIOS_Hacking_Pack.zip (22,4 MB)**  
-  SHA-256 `8ba21232c5b4a8bb15e79ea6dc873316a7a4ebda480f2e94026406e72c1f8b08`  
-  [Download][H2HC2023_BIOS_Hacking_Pack.zip]
+- **H2HC2023_BIOS_Hacking_Pack_v2.zip (33 MB)**  
+  SHA-256 `b229aa3c341df794b3b65f11a7c4d0f2ba33015c278a79df6d5af5dc60a44af2`  
+  [Download][H2HC2023_BIOS_Hacking_Pack_v2.zip]
 
 
 #### Ferramentas
@@ -171,8 +171,8 @@ entrar em contato diretamente com os organizadores, a seguir.
 [header]: assets/header.webp
 
 <!-- Downloads -->
-[H2HC2023_BIOS_Hacking_Pack.zip]: https://github.com/h2hconference/BIOS-Workshop-2023/raw/main/assets/H2HC2023_BIOS_Hacking_Pack.zip
-[H2HC2023_BIOS_Hacking_VM.ova]: https://archive.org/download/h-2-hc-2023-bios-hacking-vm/H2HC2023_BIOS_Hacking_VM.ova
+[H2HC2023_BIOS_Hacking_Pack_v2.zip]: https://github.com/h2hconference/BIOS-Workshop-2023/raw/main/assets/H2HC2023_BIOS_Hacking_Pack_v2.zip
+[H2HC2023_BIOS_Hacking_VM_v2.ova@archive.org]: https://archive.org/download/h-2-hc-2023-bios-hacking-vm/H2HC2023_BIOS_Hacking_VM_v2.ova
 
 <!-- External links -->
 [7-Zip]: https://7-zip.org
