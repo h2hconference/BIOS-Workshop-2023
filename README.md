@@ -104,7 +104,7 @@ adicional de segurança contra a possibilidade de malware.
 >
 > A senha para o usuário `bios` da máquina virtual é `life`.
 
-- **H2HC2023_BIOS_Hacking_VM_v2.ova (5,14 GB)**  
+- **H2HC2023_BIOS_Hacking_VM_v2.ova (6,2 GB)**  
   SHA-256 `f04b9fd10b636f443ffa59e6e039b6e71c378476dd53a8ce5d1acc5a46bfb455`  
   [Download via archive.org][H2HC2023_BIOS_Hacking_VM_v2.ova@archive.org]
 
